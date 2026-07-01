@@ -4,7 +4,7 @@
 
 [![Conference](https://img.shields.io/badge/conference-LeHack%202024-blueviolet?style=flat-square)]()
 [![Date](https://img.shields.io/badge/date-2024--06--28-blue?style=flat-square)]()
-[![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)](LICENSE)
 
 ---
 
@@ -154,7 +154,7 @@ Full annotated bibliography in [references/bibliography.md](references/bibliogra
 
 ## License
 
-Slides and demo scripts are licensed under [CC BY 4.0](LICENSE) — share and adapt with attribution.
+MIT License. See [LICENSE](LICENSE) for full terms.
 
 ---
 

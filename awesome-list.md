@@ -6,7 +6,7 @@
 
 <img alt="entries" src="https://img.shields.io/badge/entries-142-brightgreen?style=flat-square">
 <img alt="last update" src="https://img.shields.io/badge/updated-2025--06-blue?style=flat-square">
-<a href="https://creativecommons.org/publicdomain/zero/1.0/"><img alt="License" src="https://img.shields.io/badge/license-CC0--1.0-lightgrey?style=flat-square"></a>
+<img alt="License" src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square">
 
 </div>
 
